@@ -10,3 +10,6 @@ NetSentinel 是一套輕量化、無代理程式（Agentless）的集中日誌�
 
 ## 排程執行指令
 /volume1/docker/netsentinel/monitor.sh
+
+
+<img width="4096" height="4915" alt="image" src="https://github.com/user-attachments/assets/7ea8b14a-d746-4bb0-bbfe-5ca72bbbab0a" />
