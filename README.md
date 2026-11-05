@@ -13,3 +13,5 @@ NetSentinel 是一套輕量化、無代理程式（Agentless）的集中日誌�
 
 
 <img width="4096" height="4915" alt="image" src="https://github.com/user-attachments/assets/7ea8b14a-d746-4bb0-bbfe-5ca72bbbab0a" />
+
+<img width="783" height="780" alt="截圖 2026-11-05 上午10 04 06" src="https://github.com/user-attachments/assets/20a12c60-18da-4ec9-9a3b-99354f808840" />
